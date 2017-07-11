@@ -1,0 +1,43 @@
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.pdb
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\obj\Debug\HandySyncService.exe
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\obj\Debug\HandySyncService.pdb
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\Newtonsoft.Json.dll
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\Newtonsoft.Json.xml
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\App.config
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\obj\Debug\HandySyncService.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\LogentriesCore.dll
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\LogentriesNLog.dll
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\NLog.dll
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\NLog.xml
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\App.config
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe.config
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe.manifest
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.application
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.pdb
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\LogentriesCore.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\LogentriesNLog.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\NLog.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\NLog.xml
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.HandyWindowsService.resources
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.ProjectInstaller.resources
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.exe.manifest
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.application
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.exe
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\obj\Debug\HandySyncService.pdb

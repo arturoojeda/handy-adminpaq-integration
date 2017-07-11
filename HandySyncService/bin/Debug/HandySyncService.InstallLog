@@ -1,0 +1,109 @@
+﻿Installing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe assembly.
+Committing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Installing service WCFHandyWindowsService...
+Service WCFHandyWindowsService has been successfully installed.
+Creating EventLog source WCFHandyWindowsService in log Application...
+Committing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Installing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Installing service WCFHandyWindowsService...
+Creating EventLog source WCFHandyWindowsService in log Application...
+Rolling back assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Restoring event log to previous state for source WCFHandyWindowsService.
+Uninstalling assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Removing EventLog source WCFHandyWindowsService.
+Service WCFHandyWindowsService is being removed from the system...
+Service WCFHandyWindowsService was successfully removed from the system.
+Installing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Installing service WCFHandyWindowsService...
+Service WCFHandyWindowsService has been successfully installed.
+Creating EventLog source WCFHandyWindowsService in log Application...
+Committing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Uninstalling assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Removing EventLog source WCFHandyWindowsService.
+Service WCFHandyWindowsService is being removed from the system...
+Service WCFHandyWindowsService was successfully removed from the system.
+Installing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Installing service WCFHandyWindowsService...
+Service WCFHandyWindowsService has been successfully installed.
+Creating EventLog source WCFHandyWindowsService in log Application...
+Committing assembly 'C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\Visual Studio 2013\Projects\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+Installing assembly 'C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+   logtoconsole = 
+Installing service HandySyncService...
+Service HandySyncService has been successfully installed.
+Creating EventLog source HandySyncService in log Application...
+Installing service HandyWindowsService...
+Service HandyWindowsService has been successfully installed.
+Creating EventLog source HandyWindowsService in log Application...
+Committing assembly 'C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+   assemblypath = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+   logfile = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog
+Uninstalling assembly 'C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.exe
+   logfile = C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\bin\Debug\HandySyncService.InstallLog

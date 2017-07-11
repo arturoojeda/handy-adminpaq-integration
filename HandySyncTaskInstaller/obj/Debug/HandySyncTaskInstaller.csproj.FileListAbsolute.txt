@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\HandySyncTaskInstaller.exe.config
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\HandySyncTaskInstaller.exe
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\HandySyncTaskInstaller.pdb
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\obj\Debug\HandySyncTaskInstaller.exe
+C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\obj\Debug\HandySyncTaskInstaller.pdb

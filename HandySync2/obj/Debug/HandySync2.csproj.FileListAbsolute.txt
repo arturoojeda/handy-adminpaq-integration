@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySync2\bin\Debug\HandySync2.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySync2\bin\Debug\HandySync2.exe
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySync2\bin\Debug\HandySync2.pdb
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySync2\obj\Debug\HandySync2.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySync2\obj\Debug\HandySync2.exe
+c:\users\owner\documents\visual studio 2013\Projects\HandySync2\HandySync2\obj\Debug\HandySync2.pdb

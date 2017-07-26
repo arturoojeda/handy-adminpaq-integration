@@ -44,8 +44,6 @@ C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncService\o
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.HandyWindowsService.resources
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.ProjectInstaller.resources
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.csproj.GenerateResource.Cache
-C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.exe
-C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.pdb
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\bin\Debug\App.config
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\bin\Debug\HandySyncService.exe.config
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\bin\Debug\HandySyncService.exe.manifest
@@ -69,3 +67,5 @@ C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\bin
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.exe.manifest
 C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.application
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.exe
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncService\obj\Debug\HandySyncService.pdb

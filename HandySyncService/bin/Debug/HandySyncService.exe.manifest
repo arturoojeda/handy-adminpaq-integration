@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PliG2MduMgPDNcIjFFgaZBxeqUrTYoAJkmBCz6BTU4w=</dsig:DigestValue>
+        <dsig:DigestValue>wUoboxN4TmNW/4vCS6v2aZufNWbNpf3dd6O4o1UnGS0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -185,13 +185,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="HandySyncService.exe.config" size="4781">
+  <file name="HandySyncService.exe.config" size="4745">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DLeTmzwKSQfCUaTa1+8sOChfuQXWp1M8cco7tKY+cjg=</dsig:DigestValue>
+      <dsig:DigestValue>O+ekoXoZdLsgF+X3tszm65nXdV9o+a9mjR5otCgbtTw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

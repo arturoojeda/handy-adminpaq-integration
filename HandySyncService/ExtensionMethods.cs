@@ -20,8 +20,22 @@ namespace HandySyncService
             producto.description = (value.cNombreProducto == " " || value.cNombreProducto == "") ? "--" : value.cNombreProducto; // se usa el nombre de producto de AdminPAQ para la descripción en Handy, al ser un campo obligatorio en Handy se pone un valor default
             producto.details = (value.cDesccorta == " " || value.cDesccorta == "") ? "--" : value.cDesccorta; // Se usa descripción corta porque no se pudo acceder a la descripción detallada de AdminPAQ
             producto.enabled = (value.cStatusProducto == 1) ? true : false;
-            producto.price = value.cPrecio1;
-            //producto.product_family = String.IsNullOrEmpty(compaq.ClasificacionProducto1) ? "Generales" : compaq.ClasificacionProducto1;	//No se pudo acceder al campo de clasificación de AdminPAQ, se usa el valor default
+           
+            switch (ConfigProxy.PriceId)
+            {
+                case "1": producto.price = value.cPrecio1; break;
+                case "2": producto.price = value.cPrecio2; break;
+                case "3": producto.price = value.cPrecio3; break;
+                case "4": producto.price = value.cPrecio4; break;
+                case "5": producto.price = value.cPrecio5; break;
+                case "6": producto.price = value.cPrecio6; break;
+                case "7": producto.price = value.cPrecio7; break;
+                case "8": producto.price = value.cPrecio8; break;
+                case "9": producto.price = value.cPrecio9; break;
+                case "10": producto.price = value.cPrecio10; break;
+                default: producto.price = value.cPrecio1; break;
+            }
+ 
             producto.product_family = "Generales";
             return producto;
         }

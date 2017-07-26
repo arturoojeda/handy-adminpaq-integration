@@ -50,6 +50,20 @@ namespace HandySyncService
             }
         }
 
+        public static string PriceId
+        {
+            get
+            {
+                return config.AppSettings.Settings["PriceId"] != null ?
+                    config.AppSettings.Settings["PriceId"].Value : string.Empty;
+            }
+            set
+            {
+                config.AppSettings.Settings["PriceId"].Value = value;
+                config.Save();
+            }
+        }
+
         public static string HandyURL
         {
             get

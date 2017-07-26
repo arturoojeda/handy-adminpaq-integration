@@ -1,0 +1,11 @@
+26/07/2017 02:14:17 p. m. : [INFO]: This is the main Method.
+26/07/2017 02:14:18 p. m. : [INFO]: Before initializing Services To Run
+26/07/2017 02:14:19 p. m. : [DEBUG]: Starting service.
+26/07/2017 02:14:19 p. m. : [TRACE]: Initializing...
+26/07/2017 02:14:19 p. m. : [INFO]: Initializing Compac SDK.
+26/07/2017 02:14:20 p. m. : [ERROR]: External Exception ocurred. Code: -2147467259 Message: External component has thrown an exception.
+26/07/2017 02:14:20 p. m. : [INFO]: Closing company. [fCierraEmpresa]
+26/07/2017 02:14:20 p. m. : [INFO]: Memory usage: 32768000
+26/07/2017 02:14:20 p. m. : [INFO]: Terminating Compac SDK. [fTerminaSDK]
+26/07/2017 02:14:20 p. m. : [INFO]: Memory usage: 32768000
+26/07/2017 02:14:20 p. m. : [INFO]: Iteration finished.  Waiting specified time for next cycle.

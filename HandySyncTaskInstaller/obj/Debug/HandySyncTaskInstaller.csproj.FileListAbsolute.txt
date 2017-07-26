@@ -10,3 +10,15 @@ C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInsta
 C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
 C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\obj\Debug\HandySyncTaskInstaller.exe
 C:\Users\Owner\Documents\handy-adminpaq-sync\trunk\HandySync2\HandySyncTaskInstaller\obj\Debug\HandySyncTaskInstaller.pdb
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\HandySyncTaskInstaller.exe.config
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\HandySyncTaskInstaller.exe
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\HandySyncTaskInstaller.pdb
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\obj\Debug\HandySyncTaskInstaller.exe
+C:\Users\Arturo\Documents\GitHub\handy-adminpaq-integration\HandySyncTaskInstaller\obj\Debug\HandySyncTaskInstaller.pdb

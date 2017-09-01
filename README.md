@@ -1,2 +1,2 @@
 # handy-adminpaq-integration
-Integrate Handy with your AdminPaq v7, 8 or 9.
+Integrate Handy with your AdminPaq. Visit http://ayuda.handy.la/general/adminpaq for details.

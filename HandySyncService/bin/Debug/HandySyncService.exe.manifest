@@ -49,7 +49,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gbjKe2bvQh9VcDzfTS39ATkMTmn5Zey/VjLfPsLi/xE=</dsig:DigestValue>
+        <dsig:DigestValue>MULGC56aLpZPSPIs/zuIsVTdaQX9Ww3iX95ZRAX7Z54=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JetBrains.Annotations.dll" size="64000">
+      <assemblyIdentity name="JetBrains.Annotations" version="11.0.0.0" publicKeyToken="1010A0D8D6380325" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IG/Ku2IxZlAGvXc1l25Lnt+lKRMUbq95BSl8D4t7Uso=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,120 +90,120 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Win32.TaskScheduler.dll" size="295424">
-      <assemblyIdentity name="Microsoft.Win32.TaskScheduler" version="2.5.21.0" publicKeyToken="0D013DDD5178A2AE" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Win32.TaskScheduler.dll" size="296960">
+      <assemblyIdentity name="Microsoft.Win32.TaskScheduler" version="2.6.0.0" publicKeyToken="0D013DDD5178A2AE" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Tuss8GaqsLZ/uzISyOTNG7YKPfj5YupyWrFO2gySpzA=</dsig:DigestValue>
+        <dsig:DigestValue>KriDQB/YEiEtj8iRsK8okZfGcbaWnOVGGm2U5fsKoN8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Win32.TaskScheduler.resources.dll" size="9216">
-      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.5.21.0" publicKeyToken="0D013DDD5178A2AE" language="de" processorArchitecture="msil" />
+      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.6.0.0" publicKeyToken="0D013DDD5178A2AE" language="de" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vr1w485MDVaYHvCLh1iMg82DyRsNMdhDD8WkgqwW0wk=</dsig:DigestValue>
+        <dsig:DigestValue>hsYsT2YJlKRkndpAlE0Z3ju5MNuoqSO4zV+TCBzrJfI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Win32.TaskScheduler.resources.dll" size="9216">
-      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.5.21.0" publicKeyToken="0D013DDD5178A2AE" language="es" processorArchitecture="msil" />
+      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.6.0.0" publicKeyToken="0D013DDD5178A2AE" language="es" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vKoj7PZyApQ4gr2mWhBSyFhgSaiU/NUISvrVygz7rQc=</dsig:DigestValue>
+        <dsig:DigestValue>etf+hqa3UMANV+iAjg+uHMIqj1RBvRdTpT0HF9WgomE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Win32.TaskScheduler.resources.dll" size="9216">
-      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.5.21.0" publicKeyToken="0D013DDD5178A2AE" language="fr" processorArchitecture="msil" />
+      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.6.0.0" publicKeyToken="0D013DDD5178A2AE" language="fr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uGXtET6/yzXEKcR+2MWr6KdO6ihVI/ujt2ojNp/D8n0=</dsig:DigestValue>
+        <dsig:DigestValue>9B09sOczDVUnnWrADXNvxdlClOT+efV7YayNBK1/PmA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Win32.TaskScheduler.resources.dll" size="9216">
-      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.5.21.0" publicKeyToken="0D013DDD5178A2AE" language="it" processorArchitecture="msil" />
+      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.6.0.0" publicKeyToken="0D013DDD5178A2AE" language="it" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1vfy569gZrvc7ipnVffLoFyBlbbhBBk7QeCbTACO7TM=</dsig:DigestValue>
+        <dsig:DigestValue>Ur3HJpcJwc7a+vw/gylOyPfrI1IzAMZme/ypBViPvtw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CN\Microsoft.Win32.TaskScheduler.resources.dll" size="8704">
-      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.5.21.0" publicKeyToken="0D013DDD5178A2AE" language="zh-CN" processorArchitecture="msil" />
+      <assemblyIdentity name="Microsoft.Win32.TaskScheduler.resources" version="2.6.0.0" publicKeyToken="0D013DDD5178A2AE" language="zh-CN" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pMDzmTyGQ+wz1kt1aP+bjKo0CmHiLZHdidzmlIisIQo=</dsig:DigestValue>
+        <dsig:DigestValue>kMHsA+tOgflDrjHQ7KvCCMDMneDeM72/H9bHwa1IuCE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.WindowsAzure.Configuration.dll" size="18584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.WindowsAzure.Configuration.dll" size="28352">
       <assemblyIdentity name="Microsoft.WindowsAzure.Configuration" version="3.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>K8NS0tXBNMpvS3lCWOjYNI68x9uLY15ZHkF2wrD0z1Q=</dsig:DigestValue>
+        <dsig:DigestValue>xrAULn4aHggChIpM8nO3bE3XicPI3BPMaWxwygfoDMA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="521216">
-      <assemblyIdentity name="Newtonsoft.Json" version="8.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="525824">
+      <assemblyIdentity name="Newtonsoft.Json" version="10.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pxPak1priJ2uuVQcJHuP5s1NzcMXy4Zijb95yNL0d48=</dsig:DigestValue>
+        <dsig:DigestValue>Usxt33eZD7qq5NtZP2VWEGUhM87q2zImLBItjJ7qG60=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NLog.dll" size="500736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NLog.dll" size="604672">
       <assemblyIdentity name="NLog" version="4.0.0.0" publicKeyToken="5120E14C03D0593C" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pOdgDCqcvAzxIzT9XjE+5H9h9mnj0/ywmJaNM9n7BSE=</dsig:DigestValue>
+        <dsig:DigestValue>cWTa4rZ3kH3Z+e83FHvCVx0KlUpcWgDwR8f1wcG5neg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="HandySyncService.exe.config" size="4687">
+  <file name="HandySyncService.exe.config" size="4693">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NQ0q6PiQ+5b/iUTd0J9+XABq3O/+Ds1LECZUKcBJKlA=</dsig:DigestValue>
+      <dsig:DigestValue>FVb35WWaHzcH/o2Nrpbvi8X6Bshrkmnw5N5lUyA8MlA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

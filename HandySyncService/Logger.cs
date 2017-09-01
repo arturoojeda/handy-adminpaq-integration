@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
 using System.IO;
-using System.Linq;
-using System.Net.Security;
-using System.Net.Sockets;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 using NLog;
 
 namespace HandySyncService
@@ -81,8 +73,6 @@ namespace HandySyncService
             log.Fatal(message);
             WriteToFile("[FATAL]: " + message);
         }
-
-        //public static StreamWriter sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "\\LogFile.txt", true);
 
         public static void WriteToFile(string message)
         {

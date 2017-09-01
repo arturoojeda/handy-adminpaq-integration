@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="HandySyncService.exe.manifest" size="11253">
+    <dependentAssembly dependencyType="install" codebase="HandySyncService.exe.manifest" size="11943">
       <assemblyIdentity name="HandySyncService.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1KvgaY6XSAtm8F0J0qC7btFjobiFrRGwJLRolU+ShkM=</dsig:DigestValue>
+        <dsig:DigestValue>/WdrxgDpTTN//LUCzfoydNFqdcMW+EEc8Qx1xLWFfcc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
